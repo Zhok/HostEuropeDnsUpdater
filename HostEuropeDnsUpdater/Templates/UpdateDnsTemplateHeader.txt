@@ -1,0 +1,17 @@
+﻿**************** Please DO NOT REMOVE Version Number ***************
+Domain Version Number: 5.0
+**************** Please DO NOT REMOVE Version Number ***************
+
+0. Header
+0a. HERhandle..................: CUSTOMER_NUMBER
+0b. replyto....................: CUSTOMER_EMAIL
+0c. type of action.............: NSUPD
+0d. domain.....................: DOMAIN
+0e. tld........................: TLD
+PASSWORD
+
+5. Nameservers
+5a. Primary DNS Hostname.......: AUTO
+5c. Secondary DNS Hostname.....: AUTO
+
+9. Host Europe AUTO-Nameservers

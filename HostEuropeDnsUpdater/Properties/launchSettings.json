@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BoppPatient": {
+      "commandName": "Project",
+      "commandLineArgs": "dns"
+    }
+  }
+}
